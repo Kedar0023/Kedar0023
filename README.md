@@ -1,5 +1,5 @@
-- 🐰 hi ,i'm Kedar_
-# 👨‍💻 Full Stack Web Developer | 🚀 Learning Machine Learning & DevOps
+# 🐰 hi ,i'm Kedar_
+## 👨‍💻 Full Stack Web Developer | 🚀 Learning Machine Learning & DevOps
 
 Hey there! I'm a passionate full-stack web developer exploring new technologies and constantly learning. I specialize in building modern web applications with a wide range of tools, and I'm currently diving into Machine Learning and DevOps!
 
