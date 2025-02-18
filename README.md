@@ -17,7 +17,7 @@ Hey there! I'm a passionate full-stack web developer exploring new technologies 
 I’m always up for experimenting with UI designs to make apps more user-friendly and visually appealing!
 
 ## 📈 Let's Connect:
-- [Twitter](https://twitter.com/yourhandle)
-- [GitHub](https://github.com/yourgithub)
+- [Twitter](https://twitter.com/itsdeadpool59)
+- [GitHub](https://github.com/Deadpool6900) 
 
 Feel free to check out my projects and contributions. I'm always open to feedback and collaboration! ✌️
