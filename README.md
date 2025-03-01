@@ -1,23 +1,6 @@
 # 🐰 hi ,i'm Kedar_
-## 👨‍💻 Full Stack Web Developer | 🚀 Learning Machine Learning & DevOps
-
-Hey there! I'm a passionate full-stack web developer exploring new technologies and constantly learning. I specialize in building modern web applications with a wide range of tools, and I'm currently diving into Machine Learning and DevOps!
-
-## 🌱 Currently Learning:
-- **Machine Learning** 🤖
-- **DevOps** 🔧
-
-## 💼 Tech Stack:
-- **Frontend**: React, Tailwind, Radix, Zustand
-- **Backend**: Node.js, Express, Next.js, Flask
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, GitHub, Zod, WebSockets (learning)
-
-## 👨‍🎨 Little Experience in UI Design:
-I’m always up for experimenting with UI designs to make apps more user-friendly and visually appealing!
-
-## 📈 Let's Connect:
+- I am a full-stack web devloper and I don't like ugly websites
+- Using Theo's t3 stack to become cool.
+##  Where do you can find me :
 - [Twitter](https://twitter.com/itsdeadpool59)
-- [GitHub](https://github.com/Deadpool6900) 
-
-Feel free to check out my projects and contributions. I'm always open to feedback and collaboration! ✌️
+- [GitHub](https://github.com/Deadpool6900) (my second trash account)
